@@ -4,6 +4,13 @@
 	padding: 20px;
 }
 
+
+
+p{
+	padding-top:10px;
+	margin: 10px;
+}
+
 /* .Testimonial{
 	border: solid;
 } */
@@ -13,11 +20,13 @@
 /* 	padding: 10px; */
 	background: white;
 	width: 600px;
-	height: 60px;
+	height: 70px;
+	margin-top: 10px;
 }
 
 .Autor{
 	text-align: right;
 	font-style: italic;
 	font-size: 10px;
+	margin: 10px;
 }
