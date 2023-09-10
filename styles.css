@@ -9,9 +9,11 @@
 } */
 
 .text{
-	border: none;
-	padding: 10px;
+	border: #E6E5E5;
+/* 	padding: 10px; */
 	background: white;
+	width: 600px;
+	height: 60px;
 }
 
 .Autor{
